@@ -22,3 +22,11 @@ But how do siamese networks work? Siamese networks basically consist of two symm
 Siamese networks are not only used for face recognition, but they are also used extensively in applications where we don’t have many data points and tasks where we need to learn similarity between two inputs. The applications of siamese networks include signature verification, similar question retrieval, object tracking, and more.
 
 ![0_0rWCqe27kKdp2y73](https://user-images.githubusercontent.com/50628520/89388384-ac22a400-d723-11ea-920e-746d4cd052d9.png)
+
+
+### Predictions of Simple Siamese Network trained on MNIST dataset using Contrastive Loss:
+
+![1](https://user-images.githubusercontent.com/50628520/89406510-01b77a80-d73d-11ea-80f1-1bed1d898944.jpg)
+
+![1](https://user-images.githubusercontent.com/50628520/89406568-17c53b00-d73d-11ea-808b-8c0543e0118e.jpg)
+
