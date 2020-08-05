@@ -28,5 +28,6 @@ Siamese networks are not only used for face recognition, but they are also used 
 
 ![1](https://user-images.githubusercontent.com/50628520/89406510-01b77a80-d73d-11ea-80f1-1bed1d898944.jpg)
 
-![1](https://user-images.githubusercontent.com/50628520/89406568-17c53b00-d73d-11ea-808b-8c0543e0118e.jpg)
+![3](https://user-images.githubusercontent.com/50628520/89406750-5f4bc700-d73d-11ea-8511-5ff8686d0ffb.jpg)
+
 
